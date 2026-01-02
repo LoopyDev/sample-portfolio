@@ -1,13 +1,13 @@
 ---
 title: Power Up
 category: Interactive Installations
-summary: A gallery-scale installation where visitors explore the history of gaming hardware hands-on.
+summary: A gallery-scale installation where visitors explore the history of video games hands-on.
 year: 2022
 role: Systems engineer
-stack: Various gaming consoles, video processors, screens
+stack: Consoles, screens, video processors
 status: Installed
 image: carl-raw-8Gdayy2Lhi0-unsplash.jpg
-tags: spatial audio, installation, storytelling
+tags: Arcade
 links: Case study|https://example.com
 ---
 
