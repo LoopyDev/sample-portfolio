@@ -7,7 +7,7 @@ role: Creative director, gameplay engineer
 stack: Unity, C#, FMOD
 status: Released
 image: jonathan-petersson-a6N685qLsHQ-unsplash.jpg
-tags: narrative, puzzle, audio-driven
+# tags: narrative, puzzle, audio-driven
 links: Trailer|https://example.com, Press kit|https://example.com
 ---
 

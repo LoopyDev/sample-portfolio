@@ -7,7 +7,7 @@ role: Gameplay designer, prototyper
 stack: Unity, C#, Touch input
 status: Prototype
 image: jj-ying-8bghKxNU1j0-unsplash.jpg
-tags: mobile, drift, arcade
+# tags: mobile, drift, arcade
 links: Gameplay clip|https://example.com
 ---
 

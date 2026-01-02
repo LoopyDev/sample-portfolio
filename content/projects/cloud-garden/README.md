@@ -7,7 +7,7 @@ role: Prototyper
 stack: WebGL, GLSL, Web Audio API
 status: Prototype
 image: Trees.png
-tags: ambient, audio input, shaders
+# tags: ambient, audio input, shaders
 links: Prototype|https://example.com
 ---
 

@@ -8,7 +8,7 @@ stack: WebGL, Canvas, Tone.js
 status: In progress
 image: ardian-lumi-6Woj_wozqmA-unsplash.jpg
 video: https://www.youtube.com/watch?v=lXMskKTw3Bc
-tags: typography, motion, generative
+# tags: typography, motion, generative
 links: Live demo|https://example.com, Repo|https://example.com
 ---
 
