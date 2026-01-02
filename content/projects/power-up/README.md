@@ -1,10 +1,10 @@
 ---
-title: Museum Echo
+title: Power Up
 category: Interactive Installations
-summary: A room-scale installation where visitors trigger layered stories with their footsteps.
+summary: A gallery-scale installation where visitors explore the history of gaming hardware hands-on.
 year: 2022
-role: Interaction designer, systems engineer
-stack: openFrameworks, Depth sensors, Ableton Live
+role: Systems engineer
+stack: Various gaming consoles, video processors, screens
 status: Installed
 image: carl-raw-8Gdayy2Lhi0-unsplash.jpg
 tags: spatial audio, installation, storytelling
